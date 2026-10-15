@@ -28,7 +28,3 @@ perform several operations on a given number.
 The program checks the following variables:
 `num1 = 153`, `num2 = 5`, `num3 = 7`, `num4 = 12`, `num5 = 370`,
 `num6 = 9`, `num7 = 28`.
-
-## Submission
-Zip this folder and rename it as `YourName_Task14.zip`, then upload the
-zip file and the deployed link on the submission portal.
